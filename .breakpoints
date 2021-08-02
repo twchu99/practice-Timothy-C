@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.py": [
+      {
+        "id": "ccdac172-5ca2-4e7c-9610-430b2325a3c7",
+        "line": 2,
+        "version": 25,
+        "index": 23
+      }
+    ]
+  }
+}
+print("hello, world!")
